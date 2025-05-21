@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD student at Shanghai Jiao Tong University, China. I am now pursuing PhD Degree at [APEX](https://apex.sjtu.edu.cn/) lab, advised by Prof. [Weinan Zhang](https://wnzhang.net/) and Prof. [Yong Yu](https://english.seiee.sjtu.edu.cn/english/detail/841_695.htm). Prior to that, I obtained my bachelor's degree in Computer Science and Technology from Shanghai Jiao Tong University in 2021. I received the Best Paper Award at DLP-RecSys 2023.
 
-My research interests span large language models, agent, and recommender systems. Specifically, my work focuses on: (a) Advancing and efficient next-generation recommendation models powered by LLMs, (a) AI agents with long-term memory, excellent planning capabilities, and tool intelligence for real-world applications.
+My research interests span large language models, agent, and recommender systems. Specifically, my work focuses on: (a) Advancing and efficient next-generation recommendation models powered by LLMs; (b) LLM agents with long-term memory, excellent planning capabilities, and tool intelligence for real-world applications.
 
 News
 ======
